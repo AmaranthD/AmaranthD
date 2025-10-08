@@ -15,19 +15,24 @@ AmaranthD@linux: code .
 ```csharp
 ----------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
 
-Username: Ephi 👩🏻‍💻
-WhoamI: 4rd semester Computer science student @Facultad de
-Ciencias, UNAM ˚ʚ♡ɞ˚ (taking classes from 5th xd
-I'm also a freelance artist
-OS: pop!OS, EndeavourOS(i3WM-QEMU) and Arch btw(xmonad)
-Hobbies: drawing, gaming, anime/manga, I have an anime/manga/figure
-collection, I enjoy upgrading my setup and ricing my laptop.      
-Games: RDR2, BloodBorne, Honkai Star Rail, Genshin Impact
-Interests: AI, Linux, Machine Learning, bash scripts
+Username: Moon 🦊  
+WhoamI: Security Engineer focused on IAM 🔐  
+Currently studying Game Development 🎮, SRE ⚙️ and AI 🤖  
+I have many years of experience programming, mainly focused on security and backend,  
+but I also enjoy playing around with front-end ✨  
 
-╰────────🖥️ hope you find something useful 🖥️───────────╯
+OS: Linux (Arch btw 😎) and Pop!OS  
+Hobbies: music 🎵, animations and anime 🎬, studying 🧠  
+I love cats 🐱 and foxes 🦊  
+
+Interests: AI, Security, Backend, Cloud (AWS ☁️ & GCP 🌩️)
+
+💬 I love programming and learning about new technologies.
+
+╰────────🌙 keep learning, keep evolving 🌙───────────╯
 
 -------------------------------------------------------------
+
 ```
 <!--<a<img src="https://64.media.tumblr.com/a2c7c6bd77de6fc0939a4429854f289b/2c941dd21660cbf4-a4/s1280x1920/106469df6f6080188acbe0a56e29aef0ac25ed77.jpg" alt="<3" width="50%" height="20%">
 </a>-->
