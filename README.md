@@ -15,13 +15,13 @@ AmaranthD@linux: code .
 ```csharp
 ----------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
 
-Username: Moon 🦊  
+Username: AmaranthD 🦊  
 WhoamI: Security Engineer focused on IAM 🔐  
 Currently studying Game Development 🎮, SRE ⚙️ and AI 🤖  
 I have many years of experience programming, mainly focused on security and backend,  
 but I also enjoy playing around with front-end ✨  
 
-OS: Linux (Arch btw 😎) and Pop!OS  
+OS: Linux and Windows  
 Hobbies: music 🎵, animations and anime 🎬, studying 🧠  
 I love cats 🐱 and foxes 🦊  
 
