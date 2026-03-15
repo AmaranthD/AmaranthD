@@ -17,7 +17,7 @@ AmaranthD@linux: code .
 
 Username: AmaranthD 🦊  
 WhoamI: Security Engineer focused on IAM 🔐  
-Currently studying Game Development 🎮, SRE ⚙️ and AI 🤖  
+Currently studying IAM , Game Development 🎮, SRE ⚙️ and AI 🤖 
 I have many years of experience programming, mainly focused on security and backend,  
 but I also enjoy playing around with front-end ✨  
 
